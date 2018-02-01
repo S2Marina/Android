@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Toolbar</string>
+    <string name="action_novo">Novo</string>
+    <string name="action_salvar">Salvar</string>
+</resources>
